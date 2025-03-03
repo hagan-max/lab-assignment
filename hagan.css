@@ -1,0 +1,34 @@
+
+body{
+    background-image:url(wallpaper1.webp);
+    background-size:cover 2px 3px;
+    background-position:cover;
+    filter: brightness(0px) 1px;
+}
+.menu-bar{
+    background:rgb(3,100, 0);
+    text-align:center;
+}
+.menu-bar h1{
+    color: rgb(201,212,47);
+}
+h2{
+    color:burlywood;
+    font-family:'Times New Roman';
+    text-align:center;
+}
+h3{
+    color:red;
+    font-family:'Times New Roman'; 
+    text-align:center;
+}
+h4{
+    color:blue;
+    font-family:'Times New Roman';
+    text-align:center;
+}
+h5{
+    color:green;
+    font-family:'Times New Roman';
+    text-align:center;
+}
